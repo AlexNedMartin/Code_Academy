@@ -1,3 +1,5 @@
+#Magic 8-Ball Program
+
 import random
 
 name = "Alex"
